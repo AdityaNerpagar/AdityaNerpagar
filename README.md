@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AdityaNerpagar
 - 👀 I’m interested in doing research in "Robotics"
-- 🌱 I’m currently learning Robot Operating System
+- 🌱 I’m currently learning Robot Operating System and Fusion360
 - 💞️ I’m looking to collaborate on anything related to robotics
 
 <!---
